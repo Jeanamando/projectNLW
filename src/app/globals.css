@@ -53,7 +53,7 @@ header div img {
 }
 
 main {
-    max-width: 580px;
+    max-width: 844px;
     width: 90%;
     margin: 32px auto;
 
@@ -77,6 +77,8 @@ section div {
 
 section h2 {
     letter-spacing: -0.47px;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 section p {
